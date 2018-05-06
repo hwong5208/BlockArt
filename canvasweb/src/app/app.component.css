@@ -1,0 +1,20 @@
+canvas {
+  border: 5px solid black; }
+canvas {
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  -webkit-transform:translate(-50%,-50%);
+  background-color:deepskyblue;
+  position:absolute; }
+
+button {
+  background-color: lightseagreen;
+  border: black;
+  color: black;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
